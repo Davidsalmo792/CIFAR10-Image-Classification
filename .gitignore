@@ -1,0 +1,21 @@
+
+# CIFAR-10 dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS files
+.DS_Store
+
+# Trained model files
+*.pth
+*.pt
