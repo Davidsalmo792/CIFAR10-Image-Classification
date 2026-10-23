@@ -1,0 +1,30 @@
+{
+    "dataset": "CIFAR-10",
+    "random_state": 42,
+    "training_samples": 45000,
+    "validation_samples": 5000,
+    "test_samples": 10000,
+    "batch_size": 64,
+    "mean": [
+        0.4911373257637024,
+        0.4821110665798187,
+        0.44644901156425476
+    ],
+    "std": [
+        0.246869295835495,
+        0.24343018233776093,
+        0.261603444814682
+    ],
+    "classes": [
+        "airplane",
+        "automobile",
+        "bird",
+        "cat",
+        "deer",
+        "dog",
+        "frog",
+        "horse",
+        "ship",
+        "truck"
+    ]
+}
